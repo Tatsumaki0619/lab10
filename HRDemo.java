@@ -1,9 +1,12 @@
 
 /**
- * Write a description of class HRDemo here.
+ * This is a program that generate the employee's information including their full name,
+ * hired date, work number and salary. The program can also check whether the employee's 
+ * information's correctness.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Qianyi Li
+ * @version v1.0
+ * @since 5/13/2025
  */
 public class HRDemo
 {
